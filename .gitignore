@@ -1,0 +1,10 @@
+vendor
+.idea/
+.vscode/
+test.out
+
+# binary
+kvreplacer
+test.out
+.scannerwork
+cov.out
